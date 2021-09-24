@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6d1514c8-2974-4a76-a582-663cd8220e6f
+:END:
+#+title: Awareness
+#+created: [2021-09-23 Thu 19:25]
+#+last_modified: [2021-09-23 Thu 19:25]
+Awareness is powerful stuff.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       51a5329a-2a71-4ed8-ab0b-258dca2bfcf5
+:END:
+#+title: My primary values
+#+created: [2021-09-23 Thu 19:27]
+#+last_modified: [2021-09-23 Thu 19:31]
+My primary values are [[id:37c278b6-675e-4680-ab93-62df3d31a664][kindness]], [[id:63db3df4-7d33-4b3a-bd3c-38482408adf8][intelligence]], and [[id:398fc1fb-a7f8-4adf-9416-4adb8e25a74b][strength]].
