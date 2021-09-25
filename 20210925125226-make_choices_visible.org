@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       015542be-d4fe-4759-a5f5-4fc8d12361a7
+:END:
+#+title: Make choices visible
+#+created: [2021-09-25 Sat 12:52]
+#+last_modified: [2021-09-25 Sat 12:56]
+Work in a way so that your choices can been seen. That means people have to see the options that you didn't choose [[id:bec60959-e9b5-49ed-88b2-669b2979243c][Be explicit in exclusions]]. Saying why is optional. People are generally more likely to agree. When they disagree, it'll be more specific. Both good things.

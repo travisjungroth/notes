@@ -1,8 +1,16 @@
 #+TITLE: Travis Jungroth's Notes
 
 - [[file:20210923192518-awareness.org][Awareness]]
+- [[file:20210925121529-content_addressing.org][Content addressing]]
+- [[file:20210923232035-hard_data_vs_soft_data.org][Hard data vs soft data]]
+- [[file:20210925121824-identity.org][Identity]]
+- [[file:20210925120955-immutable.org][Immutable]]
 - [[file:20210923193028-intelligence.org][Intelligence]]
 - [[file:20210923192742-kindness.org][Kindness]]
+- [[file:20210925121044-location_addressing.org][Location addressing]]
+- [[file:20210925121020-mutable.org][Mutable]]
 - [[file:20210923192710-my_primary_values.org][My primary values]]
-- [[file:20210923232035-soft_data_vs_hard_data.org][Soft data vs hard data]]
+- [[file:20210925121732-place.org][Place]]
+- [[file:20210925121754-state.org][State]]
 - [[file:20210923193127-strength.org][Strength]]
+- [[file:20210925121556-values.org][Values]]

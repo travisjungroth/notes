@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e749da67-0d26-4378-9768-3fed46c173b8
+:END:
+#+title: Be liberal with naming things
+#+created: [2021-09-25 Sat 12:28]
+#+last_modified: [2021-09-25 Sat 12:44]
+When understanding a problem, be liberal with naming things. Giving things a name doesn't mean they have to be distinct from other already named things. You can figure out the relationship after naming them.
+
+Example: Developer, Software engineer, Front-end engineer, and Front-end person can all live on the same list.
+
+After naming, define the relationships (if you want). They could be a subtree. They could overlap. They could be associative. They could be aliases.
+
+Naming things doesn't mean you have to do anything with them. Better to [[id:bec60959-e9b5-49ed-88b2-669b2979243c][be explicit in exclusions]].

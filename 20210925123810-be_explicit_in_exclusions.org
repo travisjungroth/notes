@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       bec60959-e9b5-49ed-88b2-669b2979243c
+:END:
+#+title: Be explicit in exclusions
+#+created: [2021-09-25 Sat 12:38]
+#+last_modified: [2021-09-25 Sat 12:41]
+Not naming something isn't a good way to exclude it. It makes it more likely to creep into other things that are named and included. Better to be explicit and name what's not included. If things are already named, if you already have a larger set, then you can use a subset that implies exclusion.

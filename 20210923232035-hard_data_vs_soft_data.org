@@ -3,10 +3,12 @@
 :END:
 #+title: Hard data vs soft data
 #+created: [2021-09-23 Thu 23:20]
-#+last_modified: [2021-09-25 Sat 12:18]
+#+last_modified: [2021-09-25 Sat 12:25]
+These both have their time. Hard data is nicer to work with. Work with hard data as much as possible. Soft data infects hard data, so you have to separate hard data from soft data.
+
 | Hard               | Soft                |
 |--------------------+---------------------|
 | [[id:d8061f41-d800-4434-901b-69b84f741cb0][Immutable]]          | [[id:f8f248ed-02ed-4c0b-a685-8f6c25d5140c][Mutable]]             |
 | [[id:feda00ba-51c1-4c51-b7c5-95daeb2cc6c4][Content addressing]] | [[id:2890202d-88de-4de7-a6dd-f48e1b448dd5][Location addressing]] |
 | [[id:5bf48d9a-9b7a-4249-84a2-09f198988551][Value]]              | [[id:567d5df4-06b9-4f00-8784-80682432d8de][Place]]               |
-| [[id:900b2046-fcbd-4683-a2e7-674b5d1a05ca][State]]              | [[id:923156e7-c3d2-4d20-8bb5-90f3f2b2afc7][Identity]]                    |
+| [[id:900b2046-fcbd-4683-a2e7-674b5d1a05ca][State]]              | [[id:923156e7-c3d2-4d20-8bb5-90f3f2b2afc7][Identity]]            |

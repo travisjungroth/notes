@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       e7456ef7-597a-43f5-8c86-d9aee3b644e5
+:END:
+#+title: You can keep everything you ever write
+#+created: [2021-09-25 Sat 13:15]
+#+last_modified: [2021-09-25 Sat 13:55]
+The whole work of Shakespeare is about MB. For an impossible upper bound of hand-typing:
+|          100 | words per minute           |
+|            5 | characters per word        |
+|           60 | minuter per hour           |
+|           24 | hours per day              |
+|          365 | days per year              |
+|           50 | years                      |
+|           16 | bits per character (utf-8) |
+| 210240000000 | bits                       |
+|       210.24 | GB                         |
+#+TBLFM: $1=vprod(@2..@-1)::@9$1=(@8$1) / 1000000000
+
+Maybe more realistic
+|       15 | words per minute           |
+|        5 | characters per word        |
+|       60 | minuter per hour           |
+|        4 | hours per day              |
+|      250 | days per year              |
+|       20 | years                      |
+|       16 | bits per character (utf-8) |
+| 96000000 | bits                       |
+|       96 | MB                         |
+#+TBLFM: $1=vprod(@2..@-1)::@9$1=(@8$1)/1000000

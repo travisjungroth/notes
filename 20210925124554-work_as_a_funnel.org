@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       cc51433a-e99b-43ed-94a0-9409b75bf69c
+:END:
+#+title: Work as a funnel
+#+created: [2021-09-25 Sat 12:45]
+#+last_modified: [2021-09-25 Sat 13:08]
+Make up names. [[id:e749da67-0d26-4378-9768-3fed46c173b8][Be liberal about it]]. Define their relationships, which is defining them. Filter agressively. You start wide, and end up narrow.
+
+Record this, and you'll have [[id:015542be-d4fe-4759-a5f5-4fc8d12361a7][visible choices]]. This process is better than [[id:f72e7479-c3e4-45f7-aadb-6b80a963e8b0][working as a pipe]].
