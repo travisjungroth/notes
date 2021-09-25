@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       feda00ba-51c1-4c51-b7c5-95daeb2cc6c4
+:END:
+#+title: Content addressing
+#+created: [2021-09-25 Sat 12:15]
+#+last_modified: [2021-09-25 Sat 12:15]

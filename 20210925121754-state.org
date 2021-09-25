@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       900b2046-fcbd-4683-a2e7-674b5d1a05ca
+:END:
+#+title: State
+#+created: [2021-09-25 Sat 12:17]
+#+last_modified: [2021-09-25 Sat 12:17]

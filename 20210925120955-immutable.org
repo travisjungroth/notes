@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d8061f41-d800-4434-901b-69b84f741cb0
+:END:
+#+title: Immutable
+#+created: [2021-09-25 Sat 12:09]
+#+last_modified: [2021-09-25 Sat 12:09]
