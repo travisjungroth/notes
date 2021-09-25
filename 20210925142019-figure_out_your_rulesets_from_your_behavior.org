@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e89dce35-93cc-4c75-ab9b-3b4dc160b61c
+:END:
+#+title: Figure out your rulesets from your behavior
+#+created: [2021-09-25 Sat 14:20]
+#+last_modified: [2021-09-25 Sat 14:23]
+When you're going to take an action, you can ask what rule would exist if you take that action and decide if you want that rule to be part of your ruleset. Example: "It's raining, I'm not going to go running. Do I want it to be that I don't run when it rains?".

@@ -3,5 +3,5 @@
 :END:
 #+title: Don't work as a pipe
 #+created: [2021-09-25 Sat 13:02]
-#+last_modified: [2021-09-25 Sat 13:08]
-Working as a pipe is having one-to-one relationships across what you name, define, target, record, do, etc. You act like there's only one idea, one draft, one option. You're not [[id:bec60959-e9b5-49ed-88b2-669b2979243c][explicit in your exclusions]]. It's a straight pipe from top to bottom. People do this out of fear. Fear of scope creep caused by naming things. But, you can push back.
+#+last_modified: [2021-09-25 Sat 14:08]
+Working as a pipe is having one-to-one relationships across what you name, define, target, record, do, etc. You act like there's only one idea, one draft, one option. You're not [[id:bec60959-e9b5-49ed-88b2-669b2979243c][explicit in your exclusions]]. You don't [[Id:b69cd88f-a708-4980-a718-78dc2519125e][make many versions of ideas]]. It's a straight pipe from top to bottom. People do this out of fear. Fear of scope creep caused by naming things. But, you can push back. The better alternative is to [[id:cc51433a-e99b-43ed-94a0-9409b75bf69c][work as a funnel]].

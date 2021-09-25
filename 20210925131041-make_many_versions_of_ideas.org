@@ -3,4 +3,5 @@
 :END:
 #+title: Make many versions of ideas
 #+created: [2021-09-25 Sat 13:10]
-#+last_modified: [2021-09-25 Sat 13:10]
+#+last_modified: [2021-09-25 Sat 14:00]
+When writing, for example, don't edit in-place. Make a version of an idea. Then, make a new version. Keep the old one. Either copy the old one and edit it, or start from scratch. Keep this around and you'll have [[id:015542be-d4fe-4759-a5f5-4fc8d12361a7][visible choices]]. Even with the copying, there's still plenty of space. [[id:e7456ef7-597a-43f5-8c86-d9aee3b644e5][You can keep everything you ever write]].
