@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7528e2b4-cd7c-47aa-807f-f0149d586d37
+:END:
+#+title: Soft data vs hard data
+#+created: [2021-09-23 Thu 23:20]
+#+last_modified: [2021-09-23 Thu 23:20]

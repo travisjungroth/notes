@@ -1,0 +1,8 @@
+#+TITLE: Travis Jungroth's Notes
+
+- [[file:20210923192518-awareness.org][Awareness]]
+- [[file:20210923193028-intelligence.org][Intelligence]]
+- [[file:20210923192742-kindness.org][Kindness]]
+- [[file:20210923192710-my_primary_values.org][My primary values]]
+- [[file:20210923232035-soft_data_vs_hard_data.org][Soft data vs hard data]]
+- [[file:20210923193127-strength.org][Strength]]
