@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       f8f248ed-02ed-4c0b-a685-8f6c25d5140c
-:END:
-#+title: Mutable
-#+created: [2021-09-25 Sat 12:10]
-#+last_modified: [2021-09-25 Sat 12:10]

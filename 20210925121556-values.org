@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       5bf48d9a-9b7a-4249-84a2-09f198988551
-:END:
-#+title: Values
-#+created: [2021-09-25 Sat 12:15]
-#+last_modified: [2021-09-25 Sat 12:15]

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       567d5df4-06b9-4f00-8784-80682432d8de
-:END:
-#+title: Place
-#+created: [2021-09-25 Sat 12:17]
-#+last_modified: [2021-09-25 Sat 12:17]

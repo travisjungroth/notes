@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       63db3df4-7d33-4b3a-bd3c-38482408adf8
-:END:
-#+title: Intelligence
-#+created: [2021-09-23 Thu 19:30]
-#+last_modified: [2021-09-23 Thu 19:30]
