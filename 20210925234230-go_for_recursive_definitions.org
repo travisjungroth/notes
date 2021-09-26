@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b5b77d9c-4cf4-4c96-a083-a65d861e999a
+:END:
+#+title: Go for recursive definitions
+#+created: [2021-09-25 Sat 23:42]
+#+last_modified: [2021-09-26 Sun 00:09]
+This is the failing of most project planning software. A Project has Tasks which are of type Task. Then, every time you want to add another level you need a new relationship and a new type. Tasks get Subtasks, Projects roll up into Epics. Then, features get duplicated. Epics have Labels and Tasks have Tags. Or, they get left out. Projects get a due date but Subtasks don't. Maybe an opinionated view on this is part of the value proposition of your software (or more generally, idea), but probably not.
+
+An alternative to Project.Tasks[Task] is Task.Subtasks[Task]. Tasks have Subtasks, which are of type Task. Everything gets implemented once, because there's only one thing to implement it on.
+
+It doesn't have to be infinitely recursive. You can add a limit for practical reasons, or as an expression of an opinion. You could say that it needs to be acyclic.
+
+You can still have these other types, but as predicates. A Project is a Task where Subtasks isn't empty. This allows things to change naturally. You don't have to worry about turning an Epic into Subtask. They're the same thing.
+
+It's often how the natural world works. People become parents through having children (who are also people). It just happens. It's not like a caterpillar becoming a butterfly. Those big transformation things happen too, but they're harder to model and understand. For a man becoming a father, or a parent becoming a grandparent, they don't even have to be there when it happens. Much easier to deal with.
+
+This isn't special to typed languages, or even software. If you have relationship A -> B, and A and B are really similar, see if you can go for relationship A -> A. You can add the pattern-matching and restrictions a la carte.
