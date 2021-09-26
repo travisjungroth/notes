@@ -5,7 +5,6 @@
 - [[file:20210925130219-don_t_work_as_a_pipe.org][Don't work as a pipe]]
 - [[file:20210925142019-figure_out_your_rulesets_from_your_behavior.org][Figure out your rulesets from your behavior]]
 - [[file:20210923232035-hard_data_vs_soft_data.org][Hard data vs soft data]]
-- [[file:20210925121044-location_addressing.org][Location addressing]]
 - [[file:20210925125226-make_choices_visible.org][Make choices visible]]
 - [[file:20210925131041-make_many_versions_of_ideas.org][Make many versions of ideas]]
 - [[file:20210923192710-my_primary_values.org][My primary values]]
