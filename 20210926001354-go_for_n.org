@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       938ddf2d-542b-4b21-b7ca-14a374e8f4a6
+:END:
+#+title: Go for N
+#+created: [2021-09-26 Sun 00:13]
+#+last_modified: [2021-09-26 Sun 00:13]
