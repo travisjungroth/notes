@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45b1be48-7670-4232-b0c8-aca17eacdda1
+:END:
+#+title: Compartmentalize your learning
+#+created: [2021-09-26 Sun 09:57]
+#+last_modified: [2021-09-26 Sun 10:24]
+When you study something by choice, there's an implicit question you're answering. Usually it's about truth or maximization. "What happened during the Civil War?". "What's the best way to communicate?". This leads to evaluating as you study, but [[id:a285a6d8-5d7f-490c-ba56-0aca05b66de7][learning and evaluating are incompatible]].
+
+A better question is something in the category of [[id:56d4c49b-4d73-4cf2-8b00-fc89ffa9bc34][What is this?]]. "What does Eric Foner say about the Civil War in A Fiery Trial?". "What did Marshall Rosenberg think was the best way to communicate when he wrote Nonviolent Communication?". You relax your mind because you don't have to judge things on the way in. You can't trust that everything a book says about the rest of the world is correct. But you can trust that a book's contents are its contents.
+
+This technique will allow you to get more value from incompatible works. If you think you've read a book that answered what the best way to communicate is, you're going to have a hard time reading the next book on communication. If it's compartmentalized, all these books can live together in your mind.

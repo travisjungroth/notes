@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       62b96602-216a-4e3c-8798-0c6f63e3f80b
+:END:
+#+title: Do what your instructor says
+#+created: [2021-09-26 Sun 11:34]
+#+last_modified: [2021-09-26 Sun 12:05]
+This is about learning physical things where you get instructor feedback. It might have other applications.
+
+Do what your instructor says to the best of your understanding, to the best of your ability, without hurting anyone.
+
+Sometimes you won't exactly understand what your instructor is telling you to do. You could stop and clarify. Usually a better move is to do what your instructor says to the best of your understanding. If you're right, you did the right thing. If you're wrong, it will probably be clear to them right away where your misunderstanding was and they can correct it.
+
+Sometimes you'll believe (or know) that you can't do what your instructor is telling you to do. You could stop and tell them. Or, just stand there and do nothing. Usually a better move is to do what your instructor says to the best of your ability. If you think you can't do something, there are three general outcomes. You could be wrong, and be able to do it right away. Then, doing was the right choice. You might need more practice, and you'll be able to do it after more attempts. Again, doing is the right choice. The last one is the most counterintuitive. Maybe you just can't possibly, physically do what your instructor is telling you to do. You and your instructor seeing exactly how you fail is more useful than hearing you talk about how you're going to fail. They can make changes to their instruction based on what they see. Again, trying is the best choice. This mindset avoids [[id:f8d6439d-c813-4577-888c-9f3a417fa30a][finding what works for you too early]].
+
+Sometimes your instructor will give you an instruction that you think will hurt someone (you included). This is a general catch-all for serious, unwanted consequences. In this case, don't do what your instructor says and let them know. The first, more common cause, is some misunderstanding. They tell you to untie a rope that's someone's safety line. Take the time to check and you might find they were talking about a different rope or they didn't realize what they were asking. The second case is they're legitimately asking you to do something harmful. Don't do it. Any brain cycles you spend on evaluating while learning should be spent on avoiding harm, since [[id:a285a6d8-5d7f-490c-ba56-0aca05b66de7][learning and evaluating are incompatible]]. Just make sure you have the stakes right.

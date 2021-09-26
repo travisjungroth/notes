@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1fc44ecf-8321-4748-bac5-07836ddc1d72
+:END:
+#+title: Choose what side to fail to
+#+created: [2021-09-26 Sun 10:51]
+#+last_modified: [2021-09-26 Sun 10:52]

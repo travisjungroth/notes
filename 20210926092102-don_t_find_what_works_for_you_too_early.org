@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f8d6439d-c813-4577-888c-9f3a417fa30a
+:END:
+#+title: Don't find what works for you too early
+#+created: [2021-09-26 Sun 09:21]
+#+last_modified: [2021-09-26 Sun 09:51]
+If I wanted to give a beginner a piece of advice that would damage their learning as much as possible, it would be "find what works for you". It's so effectively damaging because it's tasty poison, like antifreeze. It sounds true.
+
+The problem is [[id:a285a6d8-5d7f-490c-ba56-0aca05b66de7][learning and evaluating are incompatible]]. What this advice looks like in practice is "If this new thing doesn't immediately feel just right, drop it". That's not great. Better to .
+
+The real tricky part is what you see if you look at experts. Lots of customization. Lots of trials. If you ask them how they got good, they might literally say "I found what works for me".
+
+What's going on? It's obvious after a few followup questions. A beginner pilot might say "I tried wheel landings. They don't work for me.". A wheel landing is one way of landing tailwheel airplanes, a certain style of landing gear. The part where it's different from the alternative is maybe ten seconds long. Ask this new pilot how many lessons they spent learning wheel landings and you might hear "three". Ten landings is a good amount for a lesson. So, thirty landings of ten seconds each. Five minutes of experience. I had an airshow pilot say he didn't like wheel landings in a certain airplane. He spent one summer doing a wheel landing every chance he got. So, hundreds of chances versus thirty.
+
+In this case, they end up at a similar space. But, the professional gets so much more out of it. And other things that don't seem right at first can end up working.

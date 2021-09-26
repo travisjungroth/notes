@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       55acab68-2496-4975-b4ef-baa56a7a8c4d
+:END:
+#+title: Overcontrol at first
+#+created: [2021-09-26 Sun 10:49]
+#+last_modified: [2021-09-26 Sun 11:07]
+This is about physical machines and maybe coding. I don't know how it applies to people or other systems.
+
+There's some frequency and magnitude of inputs to a machine that's just right. When you [[id:1fc44ecf-8321-4748-bac5-07836ddc1d72][choose what side to fail to]], choose to do too much. Go a little too frequently, a little too hard. Every input into the machine is an opportunity to learn something. If you make twice as many inputs, you might learn twice as much. If your inputs are a little bigger, it will be easier for you to see their effects.
+
+I saw this with flight students. Pilots who were undercontrolling were just always a bit behind the airplane and learned slower. It was harder to bring them up. When people were overcontrolling, they learned faster. Importantly, it was easier to bring them down. "Smooth things out a bit", and they would. But you try to dial someone up and it's much harder.
+
+The best was when I told the students about this early on in their training. "I want you to overdo it a bit. Dance on those pedals. Keep things moving. You learn by the control input, but I charge by the hour. So get your money's worth. Then, some time I'll tell you to smooth out." Worked well a few times.
+
+Coding students have this, too. Some students are afraid of the computer and will barely try things out. Other just bang. There can be a 10x difference in how many things they try per hour between the most timid and adventurous coding students.
+
+How does this coexist with "slow is smooth and smooth is fast"? It's something about interacting with a live system vs a dead one. In scuba, buoyancy vs gearing up.

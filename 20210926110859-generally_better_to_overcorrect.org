@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0efb5c99-36f3-43a9-962d-6ab573f81583
+:END:
+#+title: Generally better to overcorrect
+#+created: [2021-09-26 Sun 11:08]
+#+last_modified: [2021-09-26 Sun 11:32]
+If you're going to bother making a change, it's generally better to make one that's too big. If there's some invisible "just-right" value and you know you're on one side of it, try to all the way to other side. In most systems, it's much more clear what side of perfect you're on than how far away from perfect you are. "Are the cookies overcooked or undercooked?" is a much easier question to answer than "How much more should the cookies be cooked?" Binary value vs a magnitude.
+
+To find the right value, it's best to try to capture it. 15 wasn't enough, 20 was too much. Great, now we can bisect search. The alternative is to try to run up against right value from one side. It's so easy to get wrong, because just-right values can be way off of what we think.
+
+Pragmatically, you probably ended up on the side of just-right you're on because of some bias. If you don't talk enough in meetings, it's likely that you tend to be on the shy side in general. To land on just-right, you'll have to make the adjustment *plus* overcome that bias. More generally, whatever side you're on, you got there somehow. If you were just-right on altitude but are under now, you got there by descending. You're probably still descending. You'll need to both arrest the descent and turn it into a climb if you want to get back up.
+
+If you're doing this change based on feedback from someone else, they might interpret overcorrections as responsiveness, which is great.
+
+Contraindications are when there are hazards for going too far, or when missing high and low look the same.

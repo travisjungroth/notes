@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       15f87c6d-385d-42ae-b9b8-bb8e8e29a5c4
+:END:
+#+title: Give yourself a chance
+#+created: [2021-09-26 Sun 09:12]
+#+last_modified: [2021-09-26 Sun 09:18]
+I offered to a group of people a chance to get mentored in software for a bit. I had a short application, including a 1 minute video about why you wanted to be a software engineer. Out of 20 applications, one included the video. It made it really easy to choose.
+
+Don't do this. Don't waste your time with unfinished applications to competitive things. Check all of the boxes. You don't have to be perfect. Just give yourself a chance. Don't take yourself out of the running for small stuff. This is how you [[id:a2b033f6-26c4-43c4-ac81-8ea8eb691d54][not lose]].

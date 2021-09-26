@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       41e57871-7a90-4316-9da0-793c2fd2c0fd
+:END:
+#+title: Read important things many times
+#+created: [2021-09-26 Sun 08:55]
+#+last_modified: [2021-09-26 Sun 09:00]
+I'm surprised how much I learn by reading things slowly and repeatedly. I'll read something like a problem statement three times in a row, and still get new stuff out on the third. Reading the same thing across time, like How to Solve It, also gives surprising value. Some transformation happens after a reading that's picked up by the next reading. And, there's something about reading the same thing as a slightly different person. The unchanging book creates a link across time. Point 1 -> Book <- Point 2. This is hard to get otherwise, because most things change along with us.

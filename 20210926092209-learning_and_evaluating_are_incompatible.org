@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a285a6d8-5d7f-490c-ba56-0aca05b66de7
+:END:
+#+title: Learning and evaluating are incompatible
+#+created: [2021-09-26 Sun 09:22]
+#+last_modified: [2021-09-26 Sun 09:30]
+Learning (change in behavior) slows down evaluation. And, evaluation just destroys learning. You can't judge an information stream and let it change you at the same time.
+
+They both have their place. Just do them intentionally, at separate times and regular intervals. After each one hour lesson, take even half a minute to reflect on your instructor. What do you like? Dislike? Are they a good match for you? Take the other half of the minute to think on the content. Is it useful? Is it true? Doing this process outside of the learning time will free up your mind, since you'll trust that it's coming.

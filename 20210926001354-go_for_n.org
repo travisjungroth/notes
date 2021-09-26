@@ -3,4 +3,5 @@
 :END:
 #+title: Go for N
 #+created: [2021-09-26 Sun 00:13]
-#+last_modified: [2021-09-26 Sun 00:13]
+#+last_modified: [2021-09-26 Sun 08:41]
+With features, you can often have it not at all, for one item, some encoded limit, or just N. With function dispatching, it's no dispatch, single dispatch or multiple dispatch. If it's good enough for one, it's probably good enough for any amount. A technique for a specific case of this is [[id:b5b77d9c-4cf4-4c96-a083-a65d861e999a][go for recursive definitions]].
