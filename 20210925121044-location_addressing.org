@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       2890202d-88de-4de7-a6dd-f48e1b448dd5
-:END:
-#+title: Location addressing
-#+created: [2021-09-25 Sat 12:10]
-#+last_modified: [2021-09-25 Sat 12:10]
