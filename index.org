@@ -4,6 +4,7 @@
 - [[file:20210925122800-be_liberal_with_naming_things.org][Be liberal with naming things]]
 - [[file:20210925130219-don_t_work_as_a_pipe.org][Don't work as a pipe]]
 - [[file:20210925142019-figure_out_your_rulesets_from_your_behavior.org][Figure out your rulesets from your behavior]]
+- [[file:20210926001354-go_for_n.org][Go for N]]
 - [[file:20210925234230-go_for_recursive_definitions.org][Go for recursive definitions]]
 - [[file:20210923232035-hard_data_vs_soft_data.org][Hard data vs soft data]]
 - [[file:20210925125226-make_choices_visible.org][Make choices visible]]
