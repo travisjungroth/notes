@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da85acb6-1cf9-48e2-a2c6-bc8963296a30
+:END:
+#+title: Instances of a class will inevitably interact
+#+created: [2021-09-29 Wed 20:52]
+#+last_modified: [2021-09-29 Wed 21:22]
+When you define a class, you sometimes don't think about how instances of those class will interact. It's easy to think that they won't, at least directly. They'll at most share some relations. My experience is that this assumption is often broken. It's broken so often that I think it's inevitable for any class over a not-too-long time line (10 years?).
+
+An example: you're making home appraisal software. You define Appraisal, Appraiser and Property classes. Whether those are Ruby on Rails Models or Haskell Records or Clojure Maps (with the associated napkin) doesn't really matter. It might be convenient to think that an Appraisal is an island. You'll support things like taking an Appraisal and finding other Appraisals with the same Property. But, the Appraisals have no business interacting directly, right? This starts to seem wrong when you get a ticket asking to compare Appraisal prices. You tell yourself that's just comparing the price. But, then someone wants to diff them. Uh-oh. How about merge? Appraiser A and Appraiser B both started their own Appraisals on the same Property and now they want to merge them. You can say "they should use one Appraisal instance", but the reality is you should solve your user's actual problems.
+
+The critical thing is that undoing the assumed-islandness is generally a serious pain in the ass. The combination of inevitability and pain suggests getting ahead of it. You don't have to code features didn't ask for. Just create a data model that could support binary operators. Maybe ask some questions of the class as a set and try to make the answers nicer.

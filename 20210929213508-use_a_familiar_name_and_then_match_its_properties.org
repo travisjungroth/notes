@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       37732355-3213-4ba4-a460-9bd8d55088a9
+:END:
+#+title: Use a familiar name and then match its properties
+#+created: [2021-09-29 Wed 21:35]
+#+last_modified: [2021-09-29 Wed 21:54]
+A quick way to make a great API. Whenever possible, use a name that people are already familiar with. Then, match all the properties of that name that you can (fulfilling your users expectations).
+
+Why is some operator overloading more popular than others? People generally think this is cool:
+
+#+begin_src python
+Vector(1, 2) + Vector(3, 5)  # Vector(3, 8)
+#+end_src
+
+This is not as great but still good.
+#+begin_src python
+'abc' + 'def'  # 'abcdef'
+#+end_src
+
+But with this one you lose a lot of fans.
+#+begin_src python
+Path('/etc') / 'init.d' / 'reboot'  # Path('/etc/init.d/reboot')
+#+end_src
+
+It's because each operator is fulfilling less of the expectations of its properties. String concatenation isn't commutative like numerical addition. And that slash has very few properties of division. Even if your users don't know the words for the properties of operators, they'll be uneasy when they're missing.
+
+If /you/ don't know the words for properties, you can look them up. If you're thinking about adding some functions called "merge" and "join", search for those words together and see what comes up. Find some formalism and see how much of it you can copy. An imperfect implementation of arithmetic is probably way better a perfect implementation of whatever comes to mind.

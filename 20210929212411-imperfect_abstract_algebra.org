@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c7b79268-2301-472b-98b0-f5aa96e3a34f
+:END:
+#+title: Imperfect abstract algebra
+#+created: [2021-09-29 Wed 21:24]
+#+last_modified: [2021-09-29 Wed 21:30]
+Imperfect abstract algebra in software is becoming increasingly practical and increasingly useful. The "imperfect" part is using predicate functions and generators in code to define sets. Then, assign properties to functions and sets and see if they're true enough with property-based testing. It is increasingly practical because new software is being written and hardware is getting faster (at least in parallel, and testing functions is easy to parallelize). It's increasingly useful because we're solving more complex data problems all the time.
+
+Describing the properties of your functions and data (sets and operators) as mathematical properties:
+
+1. Makes understanding code easier.
+2. Makes code reuse easier.
+3. Makes testing easier.
