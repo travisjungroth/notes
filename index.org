@@ -1,5 +1,6 @@
 #+TITLE: Travis Jungroth's Notes
 
+- [[file:20211008002624-are_you_in_a_test_or_competition.org][Are you in a test or competition?]]
 - [[file:20210925123810-be_explicit_in_exclusions.org][Be explicit in exclusions]]
 - [[file:20210925122800-be_liberal_with_naming_things.org][Be liberal with naming things]]
 - [[file:20210926105157-choose_what_side_to_fail_to.org][Choose what side to fail to]]
@@ -22,10 +23,13 @@
 - [[file:20210926092209-learning_and_evaluating_are_incompatible.org][Learning and evaluating are incompatible]]
 - [[file:20210925125226-make_choices_visible.org][Make choices visible]]
 - [[file:20210925131041-make_many_versions_of_ideas.org][Make many versions of ideas]]
+- [[file:20211008005542-most_of_software_engineering_is_getting_data_in_the_right_place_in_the_right_place.org][Most of software engineering is getting data in the right place in the right place]]
 - [[file:20210923192710-my_primary_values.org][My primary values]]
 - [[file:20210926104946-overcontrol_at_first.org][Overcontrol at first]]
 - [[file:20210926085544-read_important_things_many_times.org][Read important things many times]]
+- [[file:20211008004431-slowness_compounds.org][Slowness compounds]]
 - [[file:20210929213508-use_a_familiar_name_and_then_match_its_properties.org][Use a familiar name and then match its properties]]
+- [[file:20211008010354-watch_out_for_culture_inversions.org][Watch out for culture inversions]]
 - [[file:20210926100543-what_is_this.org][What is this?]]
 - [[file:20210925124554-work_as_a_funnel.org][Work as a funnel]]
 - [[file:20210925131511-you_can_keep_everything_you_ever_write.org][You can keep everything you ever write]]
