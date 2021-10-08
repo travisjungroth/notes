@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       451f5e61-28d2-4100-99de-564022677451
+:END:
+#+title: Slowness compounds
+#+created: [2021-10-08 Fri 00:44]
+#+last_modified: [2021-10-08 Fri 00:54]
+AKA You spend more time in the suck than out of it.
+
+When an airplane flies into a headwind, it goes over the ground slower than it would if there was no wind. If it's flying with a tailwind, it goes over the ground faster. A reasonable belief would be that all the wind cancels out, and the average speed of airplanes over the course of many flights would be the same as no wind at all. This isn't the case.
+
+A headwind hurts you more than a tailwind of the same speed helps you. They both change your speed by the same amount, but you spend more time in the tailwind, so it has a bigger effect. A 100 mph airplane going 120 miles will take 72 minutes in no wind, 60 minutes with a 20 mph tailwind or 90 minutes in a 20 mph headwind. Same wind, but a 12 minute savings or an 18 minute cost.
+
+Even a perfect crosswind slows you down. You lose ground speed staying on-track.
+
+There's some metaphor here.

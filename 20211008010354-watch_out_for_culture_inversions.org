@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b3cc2b2a-8cbb-43a9-96ad-577059b26f89
+:END:
+#+title: Watch out for culture inversions
+#+created: [2021-10-08 Fri 01:03]
+#+last_modified: [2021-10-08 Fri 01:08]
+Sometimes, the culture of an inner organization is the opposite of the culture of its parent organization. The fast-and-loose marketing company has a by-the-books accounting department. These are tricky!
+
+The parent organization has to carve out a place for the child organization, while not allowing the parent's culture to drift in the wrong direction. The child organization has to watch out for the effects of not fitting in.

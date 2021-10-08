@@ -3,10 +3,10 @@
 :END:
 #+title: Don't find what works for you too early
 #+created: [2021-09-26 Sun 09:21]
-#+last_modified: [2021-09-26 Sun 09:51]
+#+last_modified: [2021-10-07 Thu 23:59]
 If I wanted to give a beginner a piece of advice that would damage their learning as much as possible, it would be "find what works for you". It's so effectively damaging because it's tasty poison, like antifreeze. It sounds true.
 
-The problem is [[id:a285a6d8-5d7f-490c-ba56-0aca05b66de7][learning and evaluating are incompatible]]. What this advice looks like in practice is "If this new thing doesn't immediately feel just right, drop it". That's not great. Better to .
+The problem is [[id:a285a6d8-5d7f-490c-ba56-0aca05b66de7][learning and evaluating are incompatible]]. What this advice looks like in practice is "If this new thing doesn't immediately feel just right, drop it". That's not great. Better to give things a fair shot. Maybe [[id:80431c6f-6742-4727-8116-7a734fe71a2e][learn by doing impressions]].
 
 The real tricky part is what you see if you look at experts. Lots of customization. Lots of trials. If you ask them how they got good, they might literally say "I found what works for me".
 

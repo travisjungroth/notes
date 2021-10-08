@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b4df161-b932-4dc6-8940-e043b686cf24
+:END:
+#+title: Most of software engineering is getting data in the right place in the right place
+#+created: [2021-10-08 Fri 00:55]
+#+last_modified: [2021-10-08 Fri 01:03]
+Totally my biased experience. Straight up calculations take a surprisingly small portion of a codebase (and even smaller amount of headache). Most of it is just moving all the data around. You make this algorithm, but the code to get the data /to/ the algorithm is just to much larger. Pull from a database, serialize, send a request, receive the request, deserialize, validate, then get it into just the right datas tructure.
+
+Pick a language optimized for all that. If you can do that, you can interact with anything else, any other language you want. You want to use APL and it wants arrays? That's fine. Logic programming, databases, machine-learning-de-jour? No prob.
+
+This works great with being the place to define the rules/behavior/functionality of your program. Write it one place and have it propagate everywhere. The code that can manage well will be better at spreading itself.

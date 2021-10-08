@@ -3,4 +3,5 @@
 :END:
 #+title: What is this?
 #+created: [2021-09-26 Sun 10:05]
-#+last_modified: [2021-09-26 Sun 10:05]
+#+last_modified: [2021-10-08 Fri 00:23]
+A generally safe question when approaching something is "What is this?". It's an embodiment of curiosity. All the other stuff (judgment, evaluation) can come later.

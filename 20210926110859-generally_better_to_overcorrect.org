@@ -3,8 +3,8 @@
 :END:
 #+title: Generally better to overcorrect
 #+created: [2021-09-26 Sun 11:08]
-#+last_modified: [2021-09-26 Sun 11:32]
-If you're going to bother making a change, it's generally better to make one that's too big. If there's some invisible "just-right" value and you know you're on one side of it, try to all the way to other side. In most systems, it's much more clear what side of perfect you're on than how far away from perfect you are. "Are the cookies overcooked or undercooked?" is a much easier question to answer than "How much more should the cookies be cooked?" Binary value vs a magnitude.
+#+last_modified: [2021-10-08 Fri 00:01]
+If you're going to bother making a change, it's generally better to make one that's too big. If there's some invisible "just-right" value and you know you're on one side of it, try to go all the way to other side. In most systems, it's much more clear what side of perfect you're on than how far away from perfect you are. "Are the cookies overcooked or undercooked?" is a much easier question to answer than "How much more should the cookies be cooked?" Binary value vs a magnitude.
 
 To find the right value, it's best to try to capture it. 15 wasn't enough, 20 was too much. Great, now we can bisect search. The alternative is to try to run up against right value from one side. It's so easy to get wrong, because just-right values can be way off of what we think.
 

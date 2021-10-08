@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       87c9e4a4-9e71-473c-9141-a1f03a922823
+:END:
+#+title: Are you in a test or competition?
+#+created: [2021-10-08 Fri 00:26]
+#+last_modified: [2021-10-08 Fri 00:43]
+Tests and competitions are two categories of some larger category you could call "challenges" they're similar, but they have a some differences that make them act differently in important situations.
+
+Tests are "bar clearing" activities. There's some standard, you need to meet or exceed it, you win. Maybe there are many standards (grades). Schools tests are tests. Interviews for large companies that assign you a team later are tests.
+
+Competitions are situations with more players than winners. It is not you versus some standard. It is you versus someone else. Sports are mostly competitions. Interviews for a specific job on a specific team are usually competitions.
+
+These definitions aren't actually exclusive, but it's more useful to think of them that way.
+
+Most of schooling is tests. There are sports and intellectual competitions. Then a big competition for some, the college application. But, generally, students don't spend too much time in intellectual competition and they are unprepared for it.
+
+Competitions require a different strategy and a different processing framework. If you're in a competition that's especially competitive (say, first software engineering job) and you try to just clear the bar, you're probably not going to have a good time. You might find yourself just missing the cutoff for a bunch of stages. A strategy is to know [[id:d40767fa-5e2f-4c8d-981f-d5027518cff2][How will you win?]] and [[id:a2b033f6-26c4-43c4-ac81-8ea8eb691d54][How will you not lose?]].
+
+If you pass/fail a test, that's some immediate feedback. You know you didn't meet some standard (at least at that moment, according to someone). If you win/lose a competition, you know less. Most intellectual competitions blind. You don't see the other job applicants interviews. If you get passed over a job that's only hiring one candidate, you now know that there's someone else who could perform better in the interview than you. But, didn't you already know that? Unless you're the single best in the world, there's always someone better. Maybe they happened to apply to the same job.
+
+Weirdly, in a competition, you need to go harder in preparation and go easier on yourself in failure (and easier in success).
